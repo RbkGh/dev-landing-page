@@ -1,5 +1,5 @@
 # Dev Landing Page
-[https://wwww.rodneyboachie.com](https://www.rodneyboachie.com)
+[https://www.rodneyboachie.com](https://www.rodneyboachie.com)
 
 Minimal landing page for developers.
 
